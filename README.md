@@ -4,8 +4,6 @@
 
 ## 《嘎!RSS》🐣为打破信息茧房而生
 
-![](https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/ga-rss.png)
-
 这个名为**嘎!RSS**的项目会利用免费的Github Actions服务, 提供一个内容全面的信息流, 让现代人的知识体系更广泛, 减弱信息茧房对现代人的影响, 让**非茧房信息流**造福人类~
 [《嘎!RSS》永久开源页面: https://github.com/zhaoolee/garss](https://github.com/zhaoolee/garss)
 
@@ -266,10 +264,4 @@ yag.send('填收件人邮箱', '主题:学习使我快乐', contents)
 ![手机端优化后的邮件效果](https://cdn.fangyuanxiaozhan.com/assets/163039979740967wCT8RQ.jpeg)
 
 ![PC端优化后的邮件效果](https://cdn.fangyuanxiaozhan.com/assets/1630399693988c2tk8n7k.png)
-
-## 交流群
-
-![wx-rss-002](https://cdn.fangyuanxiaozhan.com/assets/16300510778427kGzf4AN.png)
-
-![wx-rss-001](https://cdn.fangyuanxiaozhan.com/assets/16300286155536dfSKZ16.png)
 
