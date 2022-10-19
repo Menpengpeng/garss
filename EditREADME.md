@@ -206,7 +206,7 @@
 | R003 | kindle吧 |  海量书单阅读分享者 | {{latest_content}}  |  [订阅地址](https://www.kindle8.cc/feed) |  
 
 | <h2 id="资源类">羊毛类</h2> |  |   |  |
-| <div id="R001" style="text-align: center;"><img src="./_media/favicon/R001.png" width="30px" style="width:30px;height: auto;"/><br><span>R001</span></div> | 新赚吧 |  撸羊毛 | {{latest_content}}  |  [订阅地址](https://v1.xianbao.net/) 
+| <div id="R001" style="text-align: center;"><img src="./_media/favicon/R001.png" width="30px" style="width:30px;height: auto;"/><br><span>R001</span></div> | 新赚吧 |  撸羊毛 | {{latest_content}}  |  [订阅地址](https://v1.xianbao.net/forum.php?mod=rss&fid=39&auth=612aEiZgwASe7J7%252B4%252FnDxnl7pE1dfswokm6lvSSuarT8k6gHGLLpSZzqdRSKnSFy) 
 
 
 ## 如何定制自己的私人简报?
